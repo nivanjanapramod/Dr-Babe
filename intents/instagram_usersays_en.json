@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ea342b0f-9fe1-4cab-820c-c39a18435cd0",
+    "data": [
+      {
+        "text": "take me to",
+        "meta": "@need",
+        "alias": "need",
+        "userDefined": false
+      },
+      {
+        "text": " instagram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93bbb7f0-8189-4671-9fb0-6a709ac7f6ee",
+    "data": [
+      {
+        "text": "instagram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7c30cbc-29b3-441e-bd29-6c0770b7264c",
+    "data": [
+      {
+        "text": "sign up for insta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fb248e7-aed8-468d-998d-3f4348025dbe",
+    "data": [
+      {
+        "text": "instagram login",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb825c3b-f696-47fc-ad5b-5277228929c4",
+    "data": [
+      {
+        "text": "insta login",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

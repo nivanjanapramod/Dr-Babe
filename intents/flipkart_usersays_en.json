@@ -1,0 +1,70 @@
+[
+  {
+    "id": "af12d4ca-b396-40eb-b0b5-b32d0184b9ff",
+    "data": [
+      {
+        "text": "online shopping app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5124dda-ed76-4769-b01a-6080a134d2ae",
+    "data": [
+      {
+        "text": "take me to",
+        "meta": "@need",
+        "alias": "need",
+        "userDefined": false
+      },
+      {
+        "text": " flipkart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c61fb1bf-62a5-4d70-88e6-014a0f1f7bba",
+    "data": [
+      {
+        "text": "flipkart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eed2fdf6-527f-4dd4-b683-e194844b5211",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "meta": "@need",
+        "alias": "need",
+        "userDefined": false
+      },
+      {
+        "text": " flipkart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

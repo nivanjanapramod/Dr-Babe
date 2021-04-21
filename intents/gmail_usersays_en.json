@@ -1,0 +1,54 @@
+[
+  {
+    "id": "62152a22-3219-4e8b-9e8e-21640e6b1dc4",
+    "data": [
+      {
+        "text": "take me to gmail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd8e3cfa-6f31-4d99-83f1-d21ef5257b65",
+    "data": [
+      {
+        "text": "sign up for  gmail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50975e3f-e743-461b-a546-fdcf30c4ec4a",
+    "data": [
+      {
+        "text": "gmail login",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a70ac13-3d20-4330-8d49-161294190e96",
+    "data": [
+      {
+        "text": "gmail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

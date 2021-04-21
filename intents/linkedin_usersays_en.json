@@ -1,0 +1,47 @@
+[
+  {
+    "id": "974965b8-03af-4777-bbcb-5dfb429362ae",
+    "data": [
+      {
+        "text": "sign in for linkedin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8eec2bc7-4873-4197-b40e-1c34741078d4",
+    "data": [
+      {
+        "text": "take me to",
+        "meta": "@need",
+        "alias": "need",
+        "userDefined": false
+      },
+      {
+        "text": " linkedin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23dcd162-2b4b-42c0-82cf-9253f9bddf60",
+    "data": [
+      {
+        "text": "linkedin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

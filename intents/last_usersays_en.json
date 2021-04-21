@@ -1,0 +1,106 @@
+[
+  {
+    "id": "65874e45-85be-41de-9fc8-bb6a159c58fe",
+    "data": [
+      {
+        "text": "i am busy now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fa6a318-15f4-48e6-8dec-dc78502d4edf",
+    "data": [
+      {
+        "text": "see you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20ef158c-b5ce-46c6-ab60-e9823ec4feb3",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c250633b-c232-489e-8a68-0eb60bdf8328",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad96ebcc-4171-4085-b3c4-7a08fc9fc7bc",
+    "data": [
+      {
+        "text": "i have some jobes..bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd00c2cc-c849-4b0b-8d8f-af1b7f0f6d74",
+    "data": [
+      {
+        "text": " i am leaving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6daf091f-700f-43df-81d4-38c07c092b45",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49b595bd-e835-4958-b4ed-43c937408463",
+    "data": [
+      {
+        "text": "ok bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
