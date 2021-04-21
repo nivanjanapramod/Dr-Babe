@@ -1,0 +1,9 @@
+{
+  "id": "bca49099-c316-4438-b2df-ad9cbd34bb2b",
+  "name": "login",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

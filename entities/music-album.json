@@ -1,0 +1,9 @@
+{
+  "id": "b8915742-8f2b-467e-9997-f1a55903e062",
+  "name": "music-album",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}
