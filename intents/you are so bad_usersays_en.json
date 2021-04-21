@@ -1,0 +1,138 @@
+[
+  {
+    "id": "a387f3c0-0dbe-454d-9bf7-83a7acc7e63e",
+    "data": [
+      {
+        "text": "you are so bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65becbe1-968b-4cbf-bf79-987962935d4d",
+    "data": [
+      {
+        "text": "you are no good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db0d1ae0-2786-47e1-a46a-0807cb3519c0",
+    "data": [
+      {
+        "text": "you are the worst ever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37b06145-e64e-4e9c-be2e-2040c433b29d",
+    "data": [
+      {
+        "text": "you are terrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bcf8571-67ad-4a32-bec8-8e933fc65c73",
+    "data": [
+      {
+        "text": "you are bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69e596e5-f8e1-4eaf-ac65-393978efd795",
+    "data": [
+      {
+        "text": "you are not a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@music-sort",
+        "alias": "music-sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdc28dab-9216-4f37-bba9-cdee190bf260",
+    "data": [
+      {
+        "text": "you are disguisting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b5ff8b9-3a3c-4e5a-b01c-7f2a55c58aa2",
+    "data": [
+      {
+        "text": "you are useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e790bf5e-f986-498a-8ed1-7484e259fde8",
+    "data": [
+      {
+        "text": "you are a bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04302638-8e3c-466e-9098-7c048565fce0",
+    "data": [
+      {
+        "text": "you\u0027re bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

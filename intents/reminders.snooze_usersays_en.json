@@ -1,0 +1,192 @@
+[
+  {
+    "id": "9050a0ff-40d2-457f-a243-c17e9ae03acd",
+    "data": [
+      {
+        "text": "snooze reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85c650b8-0565-4ef9-b4ea-3a075c7c96ca",
+    "data": [
+      {
+        "text": "remind me later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "908e3501-1de2-4ca7-8d53-d52ccd8ab790",
+    "data": [
+      {
+        "text": "move reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3848b742-bf17-43b1-ad3e-3786550f7d92",
+    "data": [
+      {
+        "text": "reschedule it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1574da3e-fae7-43f2-80fe-5a1accbbee79",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b13b4917-aa11-4fb0-9e5d-4d6f7002ea24",
+    "data": [
+      {
+        "text": "reschedule my reminder for ",
+        "userDefined": false
+      },
+      {
+        "text": "next Monday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f185b5a-3ff0-4e55-addd-0506c48b1ee5",
+    "data": [
+      {
+        "text": "can you remind me about it ",
+        "userDefined": false
+      },
+      {
+        "text": "in 30 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddcacd06-b0b0-4197-b378-f8d91b7c383d",
+    "data": [
+      {
+        "text": "snooze for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 minutes",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef8b4874-1e3b-44ee-8ec5-bc746de53e90",
+    "data": [
+      {
+        "text": "remind me ",
+        "userDefined": false
+      },
+      {
+        "text": "in 2 hours",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbf0e6ae-13fa-44dc-8f1d-5b9b2bc9fa2d",
+    "data": [
+      {
+        "text": "reschedule my reminder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b992acbb-d654-4856-ad69-84dc3da85d7b",
+    "data": [
+      {
+        "text": "snooze it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f0b4f85-f8d0-4d3c-8c3a-dbe9a2a2a535",
+    "data": [
+      {
+        "text": "snooze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

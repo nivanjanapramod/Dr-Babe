@@ -1,0 +1,52 @@
+{
+  "id": "c7bdbe5d-4e10-4520-a6dc-6cf43813f521",
+  "name": "you are so bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4922db48-95ff-424a-afd3-172e189c0f6c",
+          "name": "music-sort",
+          "required": false,
+          "dataType": "@music-sort",
+          "value": "$music-sort",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can be trained to be more useful.My developer will keep training me",
+            "I must be missing some knowledge.I\u0027ll have my developer look into this.",
+            "I can improve with continuous feedback.My training is ongoing."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
